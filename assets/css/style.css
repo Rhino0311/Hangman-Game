@@ -1,0 +1,56 @@
+.gall {
+
+}
+
+body {
+	background-color: #006400;
+	color: white;
+}
+
+.gall img{
+	width: 100%;
+
+}
+
+.jumbotron h1, p, a {
+	text-align: center;
+}
+
+.jumbotron {
+	padding: 0;
+	background-color: #A9A9A9;
+}
+
+.waco img{
+	width: 100%;
+	vertical-align: center;
+}
+
+.gameBoard h1 {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 80px;
+
+
+}
+
+.usedLetters {
+	
+
+}
+.board {
+	padding-left: 140px;
+}
+
+.resetButton {
+	width: 85%;
+}
+
+.longSolution {
+	font-size: 20px;
+}
+
+p {
+	font-size: 24px;
+}
+
